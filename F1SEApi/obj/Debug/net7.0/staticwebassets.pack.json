@@ -1,0 +1,273 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/assets/index-04490b11.css",
+      "PackagePath": "staticwebassets/assets/index-04490b11.css"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/assets/index-d874838e.js",
+      "PackagePath": "staticwebassets/assets/index-d874838e.js"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/F1-logo.png",
+      "PackagePath": "staticwebassets/images/F1-logo.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/3a222a11-9275-4730-8efe-e2497da1c734_car9.jpg",
+      "PackagePath": "staticwebassets/images/cars/3a222a11-9275-4730-8efe-e2497da1c734_car9.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/5314a82b-d2b5-41d1-bd1e-e8932c31ddaf_car5.jpg",
+      "PackagePath": "staticwebassets/images/cars/5314a82b-d2b5-41d1-bd1e-e8932c31ddaf_car5.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/5db3d930-9faf-456f-99b8-0dba06baeb95_car1.jpg",
+      "PackagePath": "staticwebassets/images/cars/5db3d930-9faf-456f-99b8-0dba06baeb95_car1.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/66c19731-8d09-4d6e-8878-1f59e08d1b59_car11.jpg",
+      "PackagePath": "staticwebassets/images/cars/66c19731-8d09-4d6e-8878-1f59e08d1b59_car11.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/811acf30-da7e-4022-b7b5-51fbc7893a9a_car11.jpg",
+      "PackagePath": "staticwebassets/images/cars/811acf30-da7e-4022-b7b5-51fbc7893a9a_car11.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/8aef832f-6b51-4359-98c8-f1b60f818521_car8.jpg",
+      "PackagePath": "staticwebassets/images/cars/8aef832f-6b51-4359-98c8-f1b60f818521_car8.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car1.jpg",
+      "PackagePath": "staticwebassets/images/cars/car1.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car10.jpg",
+      "PackagePath": "staticwebassets/images/cars/car10.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car11.jpg",
+      "PackagePath": "staticwebassets/images/cars/car11.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car2.jpg",
+      "PackagePath": "staticwebassets/images/cars/car2.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car3.jpg",
+      "PackagePath": "staticwebassets/images/cars/car3.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car5.jpg",
+      "PackagePath": "staticwebassets/images/cars/car5.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car6.jpg",
+      "PackagePath": "staticwebassets/images/cars/car6.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car7.jpg",
+      "PackagePath": "staticwebassets/images/cars/car7.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car8.jpg",
+      "PackagePath": "staticwebassets/images/cars/car8.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/car9.jpg",
+      "PackagePath": "staticwebassets/images/cars/car9.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/ed97eff1-c2d8-4a32-bf95-0de9cc421774_5db3d930-9faf-456f-99b8-0dba06baeb95_car1.jpg",
+      "PackagePath": "staticwebassets/images/cars/ed97eff1-c2d8-4a32-bf95-0de9cc421774_5db3d930-9faf-456f-99b8-0dba06baeb95_car1.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/cars/ee117f73-8f24-4b6f-8753-d247280cd0d7_car2.jpg",
+      "PackagePath": "staticwebassets/images/cars/ee117f73-8f24-4b6f-8753-d247280cd0d7_car2.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/015acccd-7d2f-49c4-9505-7b3046a5260a_driver8.jpeg",
+      "PackagePath": "staticwebassets/images/drivers/015acccd-7d2f-49c4-9505-7b3046a5260a_driver8.jpeg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/1e8da104-5362-41c5-9da6-23160bfba4a6_driver4.jpg",
+      "PackagePath": "staticwebassets/images/drivers/1e8da104-5362-41c5-9da6-23160bfba4a6_driver4.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/29b1d03f-0f13-4f72-99c1-8896584b126c_driver3.png",
+      "PackagePath": "staticwebassets/images/drivers/29b1d03f-0f13-4f72-99c1-8896584b126c_driver3.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/3a289868-76ca-4b4a-9940-05bbcdbb3d67_driver2.png",
+      "PackagePath": "staticwebassets/images/drivers/3a289868-76ca-4b4a-9940-05bbcdbb3d67_driver2.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/50c70fe9-b47a-4ef8-91a8-9ecc0b0b309c_driver1.png",
+      "PackagePath": "staticwebassets/images/drivers/50c70fe9-b47a-4ef8-91a8-9ecc0b0b309c_driver1.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/734376ba-ae3b-4084-b72c-def63112e047_driver6.jpg",
+      "PackagePath": "staticwebassets/images/drivers/734376ba-ae3b-4084-b72c-def63112e047_driver6.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/7a9a1ad5-d120-4617-b6da-6a7cc365fdff_driver6.jpg",
+      "PackagePath": "staticwebassets/images/drivers/7a9a1ad5-d120-4617-b6da-6a7cc365fdff_driver6.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/a655c2e0-3fca-4c3a-addb-7c8403261767_driver5.jpg",
+      "PackagePath": "staticwebassets/images/drivers/a655c2e0-3fca-4c3a-addb-7c8403261767_driver5.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver1.png",
+      "PackagePath": "staticwebassets/images/drivers/driver1.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver10.jpeg",
+      "PackagePath": "staticwebassets/images/drivers/driver10.jpeg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver11.jpeg",
+      "PackagePath": "staticwebassets/images/drivers/driver11.jpeg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver12.webp",
+      "PackagePath": "staticwebassets/images/drivers/driver12.webp"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver2.png",
+      "PackagePath": "staticwebassets/images/drivers/driver2.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver3.png",
+      "PackagePath": "staticwebassets/images/drivers/driver3.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver4.jpg",
+      "PackagePath": "staticwebassets/images/drivers/driver4.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver5.jpg",
+      "PackagePath": "staticwebassets/images/drivers/driver5.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver6.jpg",
+      "PackagePath": "staticwebassets/images/drivers/driver6.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver7.jpg",
+      "PackagePath": "staticwebassets/images/drivers/driver7.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver8.jpeg",
+      "PackagePath": "staticwebassets/images/drivers/driver8.jpeg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/drivers/driver9.jpeg",
+      "PackagePath": "staticwebassets/images/drivers/driver9.jpeg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/0f0c225f-a0d7-4f09-b852-580dd9206a90_77c70f0c-0966-4123-abbd-99d8abe36654_flag7.png",
+      "PackagePath": "staticwebassets/images/flags/0f0c225f-a0d7-4f09-b852-580dd9206a90_77c70f0c-0966-4123-abbd-99d8abe36654_flag7.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/136ebd6c-07a9-4580-bc33-93ef145cb34b_flag10.png",
+      "PackagePath": "staticwebassets/images/flags/136ebd6c-07a9-4580-bc33-93ef145cb34b_flag10.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/29bea3ad-97da-4f10-8316-2848d30ee9bf_flag2.jpg",
+      "PackagePath": "staticwebassets/images/flags/29bea3ad-97da-4f10-8316-2848d30ee9bf_flag2.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/32ccf189-70dc-45d8-9b74-ba2865cc426f_flag3.png",
+      "PackagePath": "staticwebassets/images/flags/32ccf189-70dc-45d8-9b74-ba2865cc426f_flag3.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/77c70f0c-0966-4123-abbd-99d8abe36654_flag7.png",
+      "PackagePath": "staticwebassets/images/flags/77c70f0c-0966-4123-abbd-99d8abe36654_flag7.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/b6fed910-f77d-4644-aea0-c0e5571fa7b6_flag4.png",
+      "PackagePath": "staticwebassets/images/flags/b6fed910-f77d-4644-aea0-c0e5571fa7b6_flag4.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/d90e59b1-cf20-400a-a0e2-0400ed1556d4_flag5.png",
+      "PackagePath": "staticwebassets/images/flags/d90e59b1-cf20-400a-a0e2-0400ed1556d4_flag5.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/fc2a4d62-4c7b-4492-8f19-b0c9df00f2a2_flag1.jpg",
+      "PackagePath": "staticwebassets/images/flags/fc2a4d62-4c7b-4492-8f19-b0c9df00f2a2_flag1.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag1.jpg",
+      "PackagePath": "staticwebassets/images/flags/flag1.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag10.png",
+      "PackagePath": "staticwebassets/images/flags/flag10.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag11.png",
+      "PackagePath": "staticwebassets/images/flags/flag11.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag2.jpg",
+      "PackagePath": "staticwebassets/images/flags/flag2.jpg"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag3.png",
+      "PackagePath": "staticwebassets/images/flags/flag3.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag4.png",
+      "PackagePath": "staticwebassets/images/flags/flag4.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag5.png",
+      "PackagePath": "staticwebassets/images/flags/flag5.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag6.png",
+      "PackagePath": "staticwebassets/images/flags/flag6.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag7.png",
+      "PackagePath": "staticwebassets/images/flags/flag7.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/images/flags/flag9.png",
+      "PackagePath": "staticwebassets/images/flags/flag9.png"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/hiboomer/Desktop/Eksamen-Webutvikling-H-23/F1SEApi/wwwroot/vite.svg",
+      "PackagePath": "staticwebassets/vite.svg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.F1SEApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.F1SEApi.props",
+      "PackagePath": "build\\F1SEApi.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.F1SEApi.props",
+      "PackagePath": "buildMultiTargeting\\F1SEApi.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.F1SEApi.props",
+      "PackagePath": "buildTransitive\\F1SEApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

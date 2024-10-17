@@ -1,0 +1,212 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@900&display=swap");
+
+:root {
+  /* Definerer dine egendefinerte fargevariabler */
+  --night: #151515;
+  --redwood: hsl(358, 87%, 54%);
+  --earth-yellow: #e9b872;
+  --asparagus: #90a959;
+  --air-force-blue: #3671c6;
+  --bg-color: #f2efef;
+  --hover-color: rgb(205, 205, 205);
+
+  /* variabler og stiler */
+  font-family: Titillium Web, Inter, system-ui, Avenir, Helvetica, Arial,
+    sans-serif, Lato;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  color-scheme: light dark;
+
+  color: rgba(255, 255, 255, 0.87);
+  background-color: var(--bg-color);
+}
+
+.custom-navbar {
+  font-size: 1.5em;
+  font-family: Titillium Web, sans-serif;
+  display: flex;
+  font-style: italic;
+  font-weight: 600;
+
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5em 1em;
+  background-color: var(--night);
+}
+.custom-navbar a {
+  color: var(--bg-color);
+  text-decoration: none;
+}
+.white-text {
+  color: var(--bg-color);
+}
+.white-text:hover {
+  color: var(--redwood);
+}
+
+a {
+  font-weight: 500;
+  color: var(--air-force-blue);
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: var(--redwood);
+}
+
+body {
+  margin: 0;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: var(--);
+}
+
+h2 {
+  font-size: 6em;
+  line-height: 1.1;
+  color: var(--night);
+  font-family: Titillium Web, sans-serif;
+  font-weight: 900;
+}
+h3 {
+  font-size: 3em;
+  line-height: 1.1;
+  color: var(--night);
+  font-family: Titillium Web, sans-serif;
+  font-weight: 00;
+}
+h4 {
+  font-size: 2em;
+  line-height: 1.1;
+  color: var(--night);
+  font-family: Titillium Web, sans-serif;
+  font-weight: 00;
+}
+
+.custom-border {
+  border-top: 20px solid var(--redwood);
+  border-right: 20px solid var(--redwood);
+  border-bottom: 0;
+  border-left: 0;
+  border-top-right-radius: 40px;
+}
+.custom-border2 {
+  border-top: 5px solid var(--night);
+  border-right: 5px solid var(--redwood);
+  border-bottom: 0;
+  border-left: 0;
+  border-top-right-radius: 20px;
+}
+.custom-border2:hover {
+  border-top: 5px solid var(--asparagus);
+  border-right: 5px solid var(--earth-yellow);
+  border-bottom: 0;
+  border-left: 0;
+  border-top-right-radius: 20px;
+  background-color: var(--);
+}
+.custom-border3 {
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 5px solid var(--redwood);
+  border-left: 5px solid var(--redwood);
+  border-bottom-left-radius: 20px;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1.2em;
+  font-weight: 900;
+  margin: 0.5em;
+  font-family: Titillium Web, sans-serif;
+  background-color: var(--air-force-blue);
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+.btn-slett {
+  background-color: var(--redwood);
+  color: var(--bg-color);
+  border-radius: 8px;
+  font-size: 1.2em;
+  font-family: Titillium Web, sans-serif;
+}
+
+button:hover {
+  border-color: var(--);
+  background-color: var(--hover-color);
+}
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(5px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.modal-content {
+  position: relative;
+  width: 80%;
+  max-width: 600px;
+  padding: 2em;
+  background-color: var(--bg-color);
+  border-radius: 8px;
+  box-shadow: 0 0 32px rgba(0, 0, 0, 0.25);
+}
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+@media (max-width: 768px) {
+  .driver-items h3 {
+    font-size: 1.2em;
+  }
+
+  .driver-item .button,
+  .driver-item .btn-slett {
+    font-size: 0.8em;
+    padding: 0.5em 1em;
+  }
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(0, 123, 255, 0.5)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+.custom-toggler:hover .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(0, 123, 255, 0.5)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.custom-toggler:active .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba(0, 123, 255, 0.5)' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+.homepage-bg {
+  background-color: var(--redwood);
+  border-radius: 8px;
+  padding: 2em;
+  margin: 2em;
+}
+.carousel-img-container {
+  justify-content: center;
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+}
+.carousel-img-container img {
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
